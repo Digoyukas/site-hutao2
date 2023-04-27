@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+header {
+    background-color: red;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.hutaoemoj {
+    width: 10%;
+    padding: 0 50px 0 50px;
+
+}
+
+.title {
+    font-size: 100px;
+    margin-right: 37%;
+    font-family: cursive;
+    margin-top: 1%;
+
+}
+
+.listacabit {
+    margin: 0 20px;
+    font-size: 24px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.listacab {
+    margin-right: 7%;
+}
+
+.text {
+    background-image: linear-gradient();
+    font-size: 50px;
+    position: absolute;
+    top: 23%;
+    left: 37%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imgs{
+    display: flex;
+
+}
+
+.hutaoimgm {
+    margin-left: 0%;
+    width: 31%;
+    position: absolute;
+    top: 20;
+    left: 1%;
+}
+
+.xico {
+    width: 23.3%;
+    position: absolute;
+    top: 20%;
+    left: 70%;
+}
+
+.fundo {
+    background-image: url(fundoht.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text1 {
+    align-items: center;
+
+}
